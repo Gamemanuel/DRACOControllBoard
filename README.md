@@ -6,10 +6,10 @@ Buttons x12 ( i know that i only get 10 so i plan on getting an extra 2 )
 LED x6 these are indicator LEDS for when the cannon is ready to fire.
 ## screenshots
 # schematic
-![Screenshot 2025-05-28 195902](https://github.com/user-attachments/assets/a3288bea-9d27-46c8-a31f-8dfd902bd796)
+![Screenshot 2025-05-29 232203](https://github.com/user-attachments/assets/0ae83fa1-61f2-481b-8c92-7dc704244554)
 # PCB
-![Screenshot 2025-05-28 195913](https://github.com/user-attachments/assets/14fd9b30-b31b-4dab-a1fa-6b8c7f0db23a)
+![Screenshot 2025-05-29 232149](https://github.com/user-attachments/assets/ced98326-7074-43d0-91ec-24ae03bad1d5)
 # 3d model
-![DracoControllBoard](https://github.com/user-attachments/assets/eb484d8b-306f-4498-88c7-a7c5a1054db8)
+![Screenshot 2025-05-29 232226](https://github.com/user-attachments/assets/25f34cac-a75f-4487-be90-591607c73e3e)
 
 My slack USERNAME is THEMATHNIGHT
